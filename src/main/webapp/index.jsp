@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Test Site for new project</title>
+    <title>Test Site for new projects</title>
 
 
     <!-- Custom styles for this template -->
